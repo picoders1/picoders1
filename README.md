@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pikumaity5" target="blank"><img src="https://img.shields.io/twitter/follow/pikumaity5?logo=twitter&style=for-the-badge" alt="pikumaity5" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Object Detection in TINYML**
+- 🔭 I’m currently working on **AI BASED AUTOMATED DETECTION & CLASSIFICATION OF DIABETIC RETINOPATHY**
 
 - 🌱 I’m currently learning **AI, Deep learning, Machine Learning, Spring Boot**
 
