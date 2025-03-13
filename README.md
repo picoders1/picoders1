@@ -64,11 +64,12 @@
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
+<p>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/microsoft/onnxruntime/master/docs/images/FastAPI_logo.png" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/_static/mlflow-logo.png" alt="MLflow" width="40" height="40"/>
