@@ -79,8 +79,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&show_icons=true&locale=en&layout=compact" alt="picoders1" /></p>
@@ -88,6 +86,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&locale=en" alt="picoders1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=picoders1&" alt="picoders1" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake.svg" />
+</picture>
 
 
 
