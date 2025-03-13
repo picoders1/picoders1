@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />(https://picoders1.io)
+[<img src="banner_github.png" alt="GitHub Banner" width="100%" />] (https://youtube.com/@pikudataiq?si=Chdpkd8flMQ6Bd-V)
 <h1 align="center">Hi 👋, I'm Piku Maity, an Indian AI/ML Engineer</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
