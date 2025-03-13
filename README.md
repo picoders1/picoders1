@@ -64,45 +64,16 @@
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/onnxruntime/master/docs/images/FastAPI_logo.png" alt="FastAPI" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/_static/mlflow-logo.png" alt="MLflow" width="40" height="40"/>
-  </a>
-  <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-black.png" alt="Weights & Biases" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
   </a>
-  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/iterative/dvc.org/main/static/img/dvc-logo.png" alt="DVC" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS SageMaker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Vertex AI" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/machine-learning/" target="_blank" rel="noreferrer">
+    <a href="https://azure.microsoft.com/en-us/products/machine-learning/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure ML" width="40" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
   </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/streamlit/brand/main/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
-  </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
-  </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&show_icons=true&locale=en&layout=compact" alt="picoders1" /></p>
