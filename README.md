@@ -65,22 +65,22 @@
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/microsoft/onnxruntime/master/docs/images/FastAPI_logo.png" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Mlflow-logo-white-background.svg" alt="MLflow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/_static/mlflow-logo.png" alt="MLflow" width="40" height="40"/>
   </a>
   <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
-    <img src="https://wandb.ai/site-assets/logo-orange.svg" alt="Weights & Biases" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-black.png" alt="Weights & Biases" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
   </a>
   <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://dvc.org/static/img/dvc-logo-white.png" alt="DVC" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/iterative/dvc.org/main/static/img/dvc-logo.png" alt="DVC" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS SageMaker" width="40" height="40"/>
@@ -95,10 +95,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
   </a>
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/streamlit/brand/main/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
