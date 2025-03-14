@@ -1,5 +1,5 @@
 <a href="https://youtube.com/@pikudataiq?si=Chdpkd8flMQ6Bd-V" target="_blank">
-    <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+    <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 </a>
 <h1 align="center">Hi 👋, I'm Piku Maity — AI/ML Engineer from India</h1>
 <h3 align="center">Passionate about AI Agents, Conversational AI, and Physical AI</h3>
