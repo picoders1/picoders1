@@ -29,7 +29,7 @@
 <a href="https://www.leetcode.com/piku maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piku maity" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
