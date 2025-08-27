@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **AI Agents & Building Scalable AI-driven Products**  
 
-- 🌱 I’m currently exploring **Deep Learning, Large Language Models (LLMs), and Agentic AI**  
+- 🌱 I’m currently exploring **Deep Learning, Computer Vision, Large Language Models (LLMs), and Agentic AI**  
 
 - 💬 Ask me about **Machine Learning, Deep Learning, AI**
 
