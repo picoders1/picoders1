@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pikumaity" height="30" width="40" /></a>
 <a href="https://www.instagram.com/piku.chiku.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/piku.chiku.45" height="30" width="40" /></a>
-<a href="https://twitter.com/pikumaity5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pikumaity5" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pikumaity" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/piku maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piku maity" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piku maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piku maity" height="30" width="40" /></a>
