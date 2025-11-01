@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: *My AI models are smart, but my jokes still need fine-tuning!*
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pikumaity" height="30" width="40" /></a>
 <a href="https://www.instagram.com/piku.chiku.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/piku.chiku.45" height="30" width="40" /></a>
