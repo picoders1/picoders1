@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, AI**
 
-
+- 📫 How to reach me **pikumaity500@gmail.com**
 
 - ⚡ Fun fact: *My AI models are smart, but my jokes still need fine-tuning!*
 
