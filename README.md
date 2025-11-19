@@ -87,8 +87,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&locale=en" alt="picoders1" /></p>
 
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=picoders1" alt="picoders1" /></p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
