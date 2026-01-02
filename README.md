@@ -90,16 +90,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=picoders1&layout=compact)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=picoders1)
+## ![GitHub Streak](https://streak-stats.demolab.com?user=picoders1)
 
 <!-- GitHub Streak -->
-<!-- <p>
+<p>
   <img
     align="center"
     src="https://streak-stats.demolab.com?user=picoders1"
     alt="GitHub Streak"
   />
-</p> -->
+</p> 
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
