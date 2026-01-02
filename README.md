@@ -83,6 +83,34 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
+<!-- Top Languages -->
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&layout=compact&show_icons=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- GitHub Stats -->
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- GitHub Streak -->
+<p>
+  <img
+    align="center"
+    src="https://streak-stats.demolab.com?user=picoders1&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
+</p>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&cache_seconds=1800" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&layout=compact&cache_seconds=1800" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=picoders1&cache_seconds=1800" />
