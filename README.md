@@ -83,28 +83,27 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api/top-langs?username=picoders1&layout=compact"
-  />
-</p>
+## 📊 GitHub Stats
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api?username=picoders1&show_icons=true"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api?username=picoders1&show_icons=true&cache_seconds=1800)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api/top-langs?username=picoders1&layout=compact&cache_seconds=1800)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=picoders1&cache_seconds=1800)
+
 
 <!-- GitHub Streak -->
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://streak-stats.demolab.com?user=picoders1"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
