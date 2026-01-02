@@ -86,6 +86,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&format=png)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&layout=compact&format=png)
+
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true)
 
