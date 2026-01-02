@@ -85,16 +85,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api?username=picoders1&show_icons=true&cache_seconds=1800)
+![GitHub Stats](https://camo.githubusercontent.com/?url=https%3A%2F%2Fgithub-readme-stats-git-master-picoders1s-projects.vercel.app%2Fapi%3Fusername%3Dpicoders1%26show_icons%3Dtrue)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api/top-langs?username=picoders1&layout=compact&cache_seconds=1800)
+![Top Languages](https://camo.githubusercontent.com/?url=https%3A%2F%2Fgithub-readme-stats-git-master-picoders1s-projects.vercel.app%2Fapi%2Ftop-langs%3Fusername%3Dpicoders1%26layout%3Dcompact)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=picoders1&cache_seconds=1800)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=picoders1)
 
 <!-- GitHub Streak -->
 <p>
