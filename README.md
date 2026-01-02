@@ -110,18 +110,6 @@
   />
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&cache_seconds=1800" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&layout=compact&cache_seconds=1800" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=picoders1&cache_seconds=1800" />
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picoders1&show_icons=true&locale=en&layout=compact" alt="picoders1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&locale=en" alt="picoders1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=picoders1" alt="picoders1" /></p>
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
