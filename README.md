@@ -97,13 +97,6 @@
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://streak-stats.demolab.com?user=picoders1"
-  />
-</p>
-
 <!-- GitHub Streak -->
 <p>
   <img
