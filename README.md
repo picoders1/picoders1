@@ -83,23 +83,15 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
-<!-- Top Languages -->
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api/top-langs?username=picoders1&layout=compact"
-    alt="Top Languages"
-  />
-</p>
+<img
+  src="https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api/top-langs?username=picoders1&layout=compact"
+  alt="Top Languages"
+/>
 
-<!-- GitHub Stats -->
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api?username=picoders1&show_icons=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
+<img
+  src="https://github-readme-stats-git-master-picoders1s-projects.vercel.app/api?username=picoders1&show_icons=true"
+  alt="GitHub Stats"
+/>
 
 <!-- GitHub Streak -->
 <p>
