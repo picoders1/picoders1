@@ -84,6 +84,16 @@
 </p>
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://camo.githubusercontent.com/?url=https%3A%2F%2Fgithub-readme-stats-git-master-picoders1s-projects.vercel.app%2Fapi%3Fusername%3Dpicoders1%26show_icons%3Dtrue)
+
+## 💻 Top Languages
+![Top Languages](https://camo.githubusercontent.com/?url=https%3A%2F%2Fgithub-readme-stats-git-master-picoders1s-projects.vercel.app%2Fapi%2Ftop-langs%3Fusername%3Dpicoders1%26layout%3Dcompact)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=picoders1)
+
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://camo.githubusercontent.com/?url=https%3A%2F%2Fgithub-readme-stats-git-master-picoders1s-projects.vercel.app%2Fapi%3Fusername%3Dpicoders1%26show_icons%3Dtrue)
 
