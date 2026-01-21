@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently exploring **Deep Learning, Computer Vision, Large Language Models (LLMs), and Agentic AI**  
 
-- 💬 Ask me about **Machine Learning, Deep Learning, AI**
+- 💬 Ask me about **Machine Learning, Deep Learning, LLMs, AI**
 
 - 📫 How to reach me **pikumaity500@gmail.com**
 
