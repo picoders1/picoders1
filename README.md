@@ -1,4 +1,4 @@
-<a href="https://youtube.com/@pikudataiq?si=Chdpkd8flMQ6Bd-V" target="_blank">
+<a href="https://youtube.com/@pikumaity1?si=mgWrkYVx7UaKZAjL" target="_blank">
     <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 </a>
 <h1 align="center">Hi, 👋, I'm Piku Maity — AI Engineer from India</h1>
