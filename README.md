@@ -1,111 +1,191 @@
-<a href="https://youtube.com/@pikumaity1?si=mgWrkYVx7UaKZAjL" target="_blank">
-    <img src="github_banner.png" alt="GitHub Banner" width="100%" />
-</a>
-<h1 align="center">Hi, 👋, I'm Piku Maity — AI Engineer from India</h1>
-<h3 align="center">Building autonomous systems with a focus on Conversational, Physical, and Agentic AI. Exploring the future of Quantum AI</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=picoders1&label=Profile%20views&color=0e75b6&style=flat" alt="picoders1" /> </p>
+<!-- ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Piku%20Maity&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/pikumaity5" target="blank"><img src="https://img.shields.io/twitter/follow/pikumaity5?logo=twitter&style=for-the-badge" alt="pikumaity5" /></a> </p>
+<!-- ANIMATED TYPING HEADLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&height=55&lines=Engineer+in+the+Field.+Creator+in+the+Feed.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP+%7C+Agentic+AI;Building+Production+AI+Systems+That+Ship+%F0%9F%9A%80;AI+Engineer+%40+CSG+Karnataka+%7C+25K%2B+Followers" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **AI Agents & Building Scalable AI-driven Products**  
+<br/>
 
-- 🌱 I’m currently exploring **Deep Learning, Computer Vision, Large Language Models (LLMs), and Agentic AI**  
+<!-- SOCIAL PROOF BADGES -->
+[
+[
+[
+[
+[
+[
 
-- 💬 Ask me about **Machine Learning, AI, LLMs, AI Agents**
+</div>
 
-- 📫 How to reach me **pikumaity500@gmail.com**
+***
 
-- ⚡ Fun fact: *My AI models are smart, but my jokes still need fine-tuning!*
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pikumaity" height="30" width="40" /></a>
-<a href="https://www.instagram.com/piku.chiku.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/piku.chiku.45" height="30" width="40" /></a>
-<a href="https://twitter.com/pikumaity5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pikumaity5" height="30" width="40" /></a>
-<a href="https://kaggle.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pikumaity" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/piku maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piku maity" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piku maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piku maity" height="30" width="40" /></a>
-</p>
+```python
+class PikuMaity:
+    role        = "AI Engineer @ CSG Karnataka"
+    education   = "RV College of Engineering, Bangalore"
+    location    = "Bangalore, Karnataka, India"
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
-  </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-    <a href="https://azure.microsoft.com/en-us/products/machine-learning/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure ML" width="40" height="40"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
-  </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-</p>
+    expertise   = ["GenAI", "RAG", "AI Agents", "LLMs", "MCP", "Agentic AI"]
+    domains     = ["Healthcare", "Transport", "Enterprise", "Public Sector"]
+    stack       = ["Python", "LangChain", "LangGraph", "FastAPI", "PostgreSQL",
+                   "ChromaDB", "Qdrant", "Ollama", "Docker", "NVIDIA GPU"]
 
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=picoders1&layout=compact)
+    creator     = "25K+ Followers | AI & Data Science Content Creator"
+    open_source = True
+    open_to     = ["Senior AI Roles at Product MNCs", "AI Consulting",
+                   "Freelance AI Projects", "Brand Collabs", "Speaking"]
+
+    mission     = "I don't just experiment with AI — I ship it."
+    contact     = "pikumaity500@gmail.com"
+```
+
+> **"The difference between an AI experiment and an AI system is whether it survives contact with real data, real users, and production constraints. I build for the latter."**
+
+***
+
+## 🚀 What I Build
+
+Production-grade AI systems that solve real business problems — shipped across Healthcare, Transport, Enterprise, and Public Sector domains.
+
+| 🔧 System | 🏭 Domain | 🛠️ Stack | 📈 Impact |
+|-----------|-----------|----------|-----------|
+| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source Burp Suite / ZAP alternative; 16 scanners, 8 AI personas, 47 core modules |
+| 📄 **DPR CoPilot** — Document Intelligence System | Enterprise | RAG, LLMs, Document Parsing, Vector DB | End-to-end document Q&A for enterprise workflows |
+| 🚌 **KSRTC AI Systems** — Operational Analytics Platform | Public Sector / Transport | ML, NLP, PySpark, BI Dashboards | Data-driven decision-making for Karnataka government transport |
+| 🏥 **Health Insurance ML App** — Policy Renewal Prediction | Healthcare | KNN, RF, Logistic Regression, Python | **60%+ improvement** in renewal prediction accuracy |
+| 🖥️ **Enterprise Desktop Onboarding App** — Cross-Platform | Enterprise | Python, PyQT5, PySide2, MySQL | **40% productivity boost** for Data Migration teams |
+
+***
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**🤖 LLM & Agentic AI**
+
+
+
+
+
+
+
+
+
+**🔍 RAG & Vector Databases**
+
+
+
+
+
+
+
+**⚙️ ML & Data Science**
+
+
+
+
+
+
+
+**🏗️ Infrastructure & Deployment**
+
+
+
+
+
+
+
+
+</div>
+
+***
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=picoders1)
+<div align="center">
 
-<!-- GitHub Streak -->
-<!-- <p>
-  <img
-    align="center"
-    src="https://streak-stats.demolab.com?user=picoders1"
-    alt="GitHub Streak"
-  />
-</p>  -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picoders1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+
+
+</div>
+
+***
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+
+
+</div>
+
+***
+
+## 🎯 Current Focus
+
+```
+🔭  Building   →  Web Audit Agent v2 — next-gen Agentic AI DAST Platform (open-source)
+🌱  Exploring  →  MCP (Model Context Protocol) | Advanced RAG pipelines | LLM Fine-tuning
+🤝  Open to    →  AI Consulting | Freelance AI Projects | Brand Collaborations | Speaking
+🎯  Seeking    →  Senior AI Engineer roles at top Product MNCs (GenAI / Agentic AI)
+📝  Creating   →  Production AI content for 25K+ followers — making real AI accessible
+⚡  GPU Work   →  NVIDIA H100/H200 | Open-weight LLM deployment | VRAM optimization
+```
+
+***
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+
+
+</div>
+
+***
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+| Platform | Link | Best For |
+|----------|------|----------|
+| 💼 **LinkedIn** | [linkedin.com/in/pikumaity](https://www.linkedin.com/in/pikumaity) | Hiring, Professional Connect, Opportunities |
+| 🐦 **Twitter / X** | [@PikuMaity5](https://twitter.com/pikumaity5) | AI Updates, Quick Threads, DMs |
+| 📺 **YouTube** | [@pikumaity1](https://youtube.com/@pikumaity1) | AI Tutorials, Production AI Content |
+| 🌐 **Portfolio** | [pikuai.netlify.app](https://pikuai.netlify.app/) | Projects, Full Work Overview |
+| 📧 **Email** | [pikumaity500@gmail.com](mailto:pikumaity500@gmail.com) | Consulting, Freelance, Brand Collabs |
+| 📷 **Instagram** | [@piku.chiku.45](https://www.instagram.com/piku.chiku.45) | Behind-the-Scenes, Creator Journey |
+
+**👉 DM open for:** `Freelance AI Projects` &nbsp;- &nbsp; `Brand Collaborations` &nbsp;- &nbsp; `AI Consulting` &nbsp;- &nbsp; `Speaking & Advisory`
+
+</div>
+
+***
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
+</div>
 
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
+<div align="center">
+  <sub>⭐ If my projects or content help you, a star means a lot — it keeps me building in public.</sub>
+</div>
