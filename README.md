@@ -82,14 +82,14 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 <div align="center">
 
-| 🤖 Agentic AI & LLMs | 🔍 RAG & Search | 🏗️ Production Systems | 🔧 AI Infra & Tools |
+| 🤖 Agentic AI & LLMs | 🔍 RAG & Search | 🏗️ Production Systems | 🔧 AI Infra & Inference |
 |:---:|:---:|:---:|:---:|
-| Multi-Agent Orchestration | Semantic Search | FastAPI + Docker | Ollama · Open WebUI |
-| LangChain & LangGraph | Vector DB Design | GPU Inference (H100/H200) | PyTorch · TensorFlow |
-| MCP Integration | Hybrid RAG Pipelines | LLM Serving & Deployment | HuggingFace · LangSmith |
-| Tool Calling & Memory | Embedding Models | PostgreSQL + DuckDB | Pandas · NumPy · Sklearn |
-| Structured Output & Parsing | ChromaDB / Qdrant | VRAM Optimization | Linux · Docker · Git |
-| Prompt Engineering | Context-Aware Retrieval | CI-ready AI Pipelines | Python · REST APIs |
+| Multi-Agent Orchestration | Semantic Search | FastAPI + Docker | vLLM · SGLang · TGI |
+| LangChain & LangGraph | Vector DB Design | GPU Inference (H100/H200) | Ollama · Open WebUI |
+| MCP Integration | Hybrid RAG Pipelines | LLM Serving & Deployment | NVIDIA H100 / H200 |
+| Tool Calling & Memory | Embedding Models | PostgreSQL + DuckDB | VRAM Optimization · Quantization |
+| Structured Output & Parsing | ChromaDB / Qdrant | CI-ready AI Pipelines | GGUF · AWQ · GPTQ |
+| Prompt Engineering | Context-Aware Retrieval | Python · REST APIs | Docker · Linux · Git |
 
 </div>
 
