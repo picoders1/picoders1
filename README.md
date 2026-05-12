@@ -234,9 +234,9 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
   <img alt="github-snake" src="https://raw.githubusercontent.com/picoders1/picoders1/output/ocean.gif" width="100%"/>
 </picture>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓  FOOTER — MATCHING GRADIENT  ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  FOOTER  ▓▓▓▓▓▓▓▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,30:0077b6,60:003566,100:0d1117&height=100&section=footer" width="100%"/>
 
 <p align="center">
-<sub>⭐ If my projects or content help you, a star keeps me building in public — it genuinely means a lot!</sub>
+<sub>Found something useful? Drop a ⭐ — it keeps me shipping. Always open to collaborate.</sub>
 </p>
