@@ -187,9 +187,9 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="Piku's GitHub Stats"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=picoders1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="Piku's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picoders1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=picoders1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&hide=jupyter%20notebook,html,css" alt="Top Languages"/>
 </p>
 
 ---
