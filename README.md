@@ -1,36 +1,35 @@
-<!-- ████████████████████████████████████████████████████ -->
-<!--           PIKU MAITY — PREMIUM GITHUB PROFILE        -->
-<!--              picoders1 | v3.0 | May 2026             -->
-<!-- ████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--        PIKU MAITY — PREMIUM GITHUB PROFILE v4        -->
+<!--           picoders1 | Final Clean Edition            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=220&section=header&text=Piku%20Maity&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems%20%7C%2025K%2B%20Creator&descAlignY=60&descAlign=50&descSize=16&descColor=a8d8ea" width="100%" />
 </div>
 
-<!-- ═══════════════════ TYPING HEADLINE ═══════════════════ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Engineer+in+the+Field.+Creator+in+the+Feed.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP;Building+Production+AI+Systems+That+Ship+%F0%9F%9A%80;AI+Engineer+%40+CSG+Karnataka;Open+to+Senior+AI+Roles+%7C+Consulting+%7C+Collabs" alt="Typing SVG" />
-</div>
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING ANIMATION  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=Engineer+in+the+Field.+Creator+in+the+Feed.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP;Building+Production+AI+Systems+%F0%9F%9A%80;AI+Engineer+%40+CSG+Karnataka;Open+to+Senior+AI+Roles+%26+Consulting" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<!-- ═══════════════════ BADGES ROW ═══════════════════ -->
-<div align="center">
-
-[
-[
-[
-[
-[
-
-</div>
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<p align="center">
+<a href="https://www.linkedin.com/in/pikumaity" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Piku_Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://youtube.com/@pikumaity1" target="_blank"><img src="https://img.shields.io/badge/YouTube-@pikumaity1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PikuMaity5-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://pikuai.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pikuai.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=picoders1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/twitter/follow/pikumaity5?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a>
+</p>
 
 <br/>
 
 ***
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ABOUT ME  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🧠 About Me
 
 <img align="right" alt="AI Engineer coding" width="360" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
@@ -62,23 +61,21 @@ class PikuMaity:
 
 ***
 
-<!-- ═══════════════════ QUICK STATS ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  QUICK STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## ⚡ By the Numbers
 
-<div align="center">
-
-
-
-
-
-
-
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Total%20Contributions-2%2C329-brightgreen?style=flat-square&logo=github" alt="Contributions"/>
+<img src="https://img.shields.io/badge/Longest%20Streak-44%20Days-orange?style=flat-square" alt="Streak"/>
+<img src="https://img.shields.io/badge/Public%20Repos-44-blue?style=flat-square&logo=github" alt="Repos"/>
+<img src="https://img.shields.io/badge/Stars%20Earned-49%2B-yellow?style=flat-square" alt="Stars"/>
+<img src="https://img.shields.io/badge/Content%20Followers-25K%2B-red?style=flat-square&logo=youtube" alt="Followers"/>
+<img src="https://img.shields.io/badge/GitHub%20Since-2021-purple?style=flat-square&logo=github" alt="Since"/>
+</p>
 
 ***
 
-<!-- ═══════════════════ CURRENTLY WORKING ON ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CURRENTLY WORKING ON  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🔭 What I'm Up To
 
 - 🔭 &nbsp;**Building** → Web Audit Agent v2 — AI-native DAST Platform (open-source Burp Suite / ZAP alternative)
@@ -92,7 +89,7 @@ class PikuMaity:
 
 ***
 
-<!-- ═══════════════════ EXPERTISE AREAS ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CORE EXPERTISE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🎯 Core Expertise
 
 <div align="center">
@@ -100,17 +97,17 @@ class PikuMaity:
 | 🤖 Agentic AI & LLMs | 🔍 RAG & Search | 🏗️ Production Systems | 📊 ML & Data |
 |:---:|:---:|:---:|:---:|
 | Multi-Agent Orchestration | Semantic Search | FastAPI + Docker | Supervised / Unsupervised ML |
-| LangChain & LangGraph | Vector DB Design | GPU Inference | Classification & Regression |
-| MCP Integration | Hybrid RAG Pipelines | LLM Serving (Ollama) | Feature Engineering |
-| Tool Calling & Memory | Embedding Models | CI-ready Pipelines | Data Analytics & BI |
+| LangChain & LangGraph | Vector DB Design | GPU Inference (H100/H200) | Classification & Regression |
+| MCP Integration | Hybrid RAG Pipelines | LLM Serving via Ollama | Feature Engineering |
+| Tool Calling & Memory | Embedding Models | CI-ready AI Pipelines | Data Analytics & BI |
 | AI Persona Engineering | ChromaDB / Qdrant | PostgreSQL + DuckDB | TensorFlow / PyTorch |
-| Prompt Engineering | Context-Aware Retrieval | NVIDIA GPU Optimization | Pandas / NumPy / Sklearn |
+| Prompt Engineering | Context-Aware Retrieval | VRAM Optimization | Pandas / NumPy / Sklearn |
 
 </div>
 
 ***
 
-<!-- ═══════════════════ WHAT I CAN DELIVER ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  WHAT I CAN DELIVER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🚀 What I Can Deliver
 
 > *Production-grade AI systems shipped across Healthcare, Transport, Enterprise & Public Sector.*
@@ -119,17 +116,17 @@ class PikuMaity:
 
 | 🔧 System | 🏭 Domain | 🛠️ Stack | 📈 Impact |
 |:---|:---:|:---|:---|
-| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source alternative to Burp Suite/ZAP; 16 scanners, 8 AI personas, 47 core modules |
-| 📄 **DPR CoPilot** — Document Intelligence | Enterprise | RAG, LLMs, Vector DB, Doc Parsing | End-to-end document Q&A for enterprise workflows |
+| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source Burp Suite/ZAP alternative; 16 scanners, 8 AI personas, 47 core modules |
+| 📄 **DPR CoPilot** — Document Intelligence | Enterprise | RAG, LLMs, Vector DB, Document Parsing | End-to-end document Q&A for enterprise workflows |
 | 🚌 **KSRTC AI Systems** — Operational Analytics | Public Sector | ML, NLP, PySpark, BI Dashboards | Data-driven ops for Karnataka government transport |
-| 🏥 **Health Insurance ML App** — Policy Prediction | Healthcare | KNN, RF, Logistic Regression, Python | **60%+ improvement** in policy renewal accuracy |
+| 🏥 **Health Insurance ML App** | Healthcare | KNN, Random Forest, Logistic Regression | **60%+ improvement** in policy renewal accuracy |
 | 🖥️ **Enterprise Desktop Onboarding App** | Enterprise | Python, PyQT5, PySide2, MySQL | **40% productivity boost** for Data Migration teams |
 
 </div>
 
 ***
 
-<!-- ═══════════════════ SERVICES / AVAILABLE FOR ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  AVAILABLE FOR  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🤝 Available For
 
 <div align="center">
@@ -141,16 +138,15 @@ class PikuMaity:
 | 🎤 **Speaking & Advisory** | AI/ML talks, webinars, workshops, panel discussions |
 | 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (25K+ audience) |
 | 🏢 **Full-time Opportunities** | Senior AI Engineer roles at Product MNCs |
-| 📧 **Contact** | [pikumaity500@gmail.com](mailto:pikumaity500@gmail.com) |
 
 </div>
 
 ***
 
-<!-- ═══════════════════ TECH STACK (ICON-BASED — WORKING) ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TECH STACK (ICON-BASED)  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 💻 Tech Stack
 
-<h4 align="left">🤖 LLM & Agentic AI</h4>
+<h4 align="left">🤖 LLM, AI & Machine Learning</h4>
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
 <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>&nbsp;
@@ -171,7 +167,7 @@ class PikuMaity:
 <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">🗄️ Databases & Infrastructure</h4>
+<h4 align="left">🗄️ Databases & Cloud Infrastructure</h4>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>&nbsp;
@@ -190,91 +186,69 @@ class PikuMaity:
 
 ***
 
-<!-- ═══════════════════ GITHUB STATS (WORKING URLS) ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=picoders1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="Piku's GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picoders1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
+</p>
 
 ***
 
-<!-- ═══════════════════ GITHUB STREAK ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=picoders1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+</p>
 
 ***
 
-<!-- ═══════════════════ CONTRIBUTION ACTIVITY GRAPH ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=picoders1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
 
 ***
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=picoders1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</p>
 
 ***
 
-<!-- ═══════════════════ CONNECT WITH ME ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONNECT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
-<a href="https://www.instagram.com/piku.chiku.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;
-<a href="https://twitter.com/pikumaity5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;
-<a href="https://kaggle.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>&nbsp;
-<a href="https://leetcode.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>&nbsp;
-<a href="https://youtube.com/@pikumaity1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>&nbsp;
+<a href="https://www.instagram.com/piku.chiku.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>&nbsp;
+<a href="https://twitter.com/pikumaity5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>&nbsp;
+<a href="https://kaggle.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/></a>&nbsp;
+<a href="https://www.hackerrank.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>&nbsp;
+<a href="https://leetcode.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>&nbsp;
+<a href="https://youtube.com/@pikumaity1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
 </p>
-
-<br/>
-
-<div align="center">
-
-**👉 DM open for:** &nbsp;`Freelance AI Projects` &nbsp;·&nbsp; `Brand Collaborations` &nbsp;·&nbsp; `AI Consulting` &nbsp;·&nbsp; `Speaking & Advisory` &nbsp;·&nbsp; `Senior AI Roles`
-
-📧 **[pikumaity500@gmail.com](mailto:pikumaity500@gmail.com)**
-
-</div>
 
 ***
 
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
-<div align="center">
-
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SNAKE ANIMATION  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-</div>
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FOOTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=100&section=footer" width="100%"/>
 
-<div align="center">
+<p align="center">
 <sub>⭐ If my projects or content help you, a star keeps me building in public — it genuinely means a lot!</sub>
-</div>
+</p>
