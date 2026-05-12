@@ -1,95 +1,84 @@
 <!-- ══════════════════════════════════════════════════════ -->
-<!--        PIKU MAITY — PREMIUM GITHUB PROFILE v4        -->
-<!--           picoders1 | Final Clean Edition            -->
+<!--        PIKU MAITY — PREMIUM GITHUB PROFILE v5        -->
+<!--         picoders1 | Final Clean Edition May 2026     -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=220&section=header&text=Piku%20Maity&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems%20%7C%2025K%2B%20Creator&descAlignY=60&descAlign=50&descSize=16&descColor=a8d8ea" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=220&section=header&text=Piku%20Maity&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems%20%7C%2030K%2B%20Creator&descAlignY=60&descAlign=50&descSize=16&descColor=a8d8ea" width="100%" />
 </div>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING ANIMATION  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  TYPING ANIMATION  ▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=Engineer+in+the+Field.+Creator+in+the+Feed.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP;Building+Production+AI+Systems+%F0%9F%9A%80;AI+Engineer+%40+CSG+Karnataka;Open+to+Senior+AI+Roles+%26+Consulting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Engineer+in+the+Field.+Creator+in+the+Feed.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP+%7C+Agentic+AI;Building+Production+AI+Systems+That+Ship;AI+Engineer+%40+CSG+Karnataka+%7C+RV+College+of+Engineering;Open+to+Senior+AI+Roles+%7C+Consulting+%7C+Collabs" alt="Typing SVG" />
 </p>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
-<a href="https://www.linkedin.com/in/pikumaity" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Piku_Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://youtube.com/@pikumaity1" target="_blank"><img src="https://img.shields.io/badge/YouTube-@pikumaity1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PikuMaity5-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://pikuai.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pikuai.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/pikumaity" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Piku_Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://youtube.com/@pikumaity1" target="_blank"><img src="https://img.shields.io/badge/YouTube-@pikumaity1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;
+<a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PikuMaity5-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
+<a href="https://pikuai.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pikuai.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:pikumaity500@gmail.com"><img src="https://img.shields.io/badge/Email-pikumaity500@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=picoders1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-<a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/twitter/follow/pikumaity5?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a>
 </p>
 
 <br/>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ABOUT ME  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-## 🧠 About Me
+<!-- ▓▓▓▓▓▓▓▓▓▓  ABOUT ME — HUMAN TONE  ▓▓▓▓▓▓▓▓▓▓ -->
+## 👋 About Me
 
-<img align="right" alt="AI Engineer coding" width="360" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
+<img align="right" alt="AI Engineer coding" width="340" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
 
-```python
-class PikuMaity:
-    role        = "AI Engineer @ CSG Karnataka"
-    education   = "RV College of Engineering, Bangalore"
-    location    = "Bangalore, Karnataka, India"
+**I'm Piku Maity — an AI Engineer based in Bangalore, India.**
 
-    expertise   = ["GenAI", "RAG", "AI Agents",
-                   "LLMs", "MCP", "Agentic AI"]
-    domains     = ["Healthcare", "Transport",
-                   "Enterprise", "Public Sector"]
+I build production-grade AI systems that solve real business problems — not demos, not notebooks, not toy projects. Over the past 2.5+ years at CSG Karnataka (and before that at Philips), I've shipped AI solutions across **Healthcare, Transport, Enterprise, and Public Sector** domains.
 
-    creator     = "25K+ Followers | AI Content Creator"
-    open_source = True
-    open_to     = ["Senior AI Roles @ Product MNCs",
-                   "AI Consulting", "Freelance Projects",
-                   "Brand Collabs", "Speaking"]
+My core expertise sits at the intersection of **GenAI, RAG pipelines, AI Agents, LLMs, and MCP** — the full stack of what it takes to take an AI idea from whiteboard to production.
 
-    mission     = "I don't just experiment — I ship it."
-    contact     = "pikumaity500@gmail.com"
-```
+Outside of engineering, I create AI content for a community of **30K+ followers** across LinkedIn, YouTube, and Twitter — breaking down production AI for engineers and builders who want to go beyond the hype.
+
+🎓 **RV College of Engineering, Bangalore** &nbsp;|&nbsp; 💼 **AI Engineer @ CSG Karnataka**
 
 > *"The difference between an AI experiment and an AI system is whether it survives contact with real data, real users, and production constraints. I build for the latter."*
 
 <br clear="right"/>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  QUICK STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  QUICK STATS  ▓▓▓▓▓▓▓▓▓▓ -->
 ## ⚡ By the Numbers
 
 <p align="center">
-<img src="https://img.shields.io/badge/Total%20Contributions-2%2C329-brightgreen?style=flat-square&logo=github" alt="Contributions"/>
+<img src="https://img.shields.io/badge/Total%20GitHub%20Contributions-2%2C329%2B-brightgreen?style=flat-square&logo=github" alt="Contributions"/>
 <img src="https://img.shields.io/badge/Longest%20Streak-44%20Days-orange?style=flat-square" alt="Streak"/>
 <img src="https://img.shields.io/badge/Public%20Repos-44-blue?style=flat-square&logo=github" alt="Repos"/>
-<img src="https://img.shields.io/badge/Stars%20Earned-49%2B-yellow?style=flat-square" alt="Stars"/>
-<img src="https://img.shields.io/badge/Content%20Followers-25K%2B-red?style=flat-square&logo=youtube" alt="Followers"/>
-<img src="https://img.shields.io/badge/GitHub%20Since-2021-purple?style=flat-square&logo=github" alt="Since"/>
+<img src="https://img.shields.io/badge/Community%20Followers-30K%2B-red?style=flat-square&logo=youtube" alt="Followers"/>
+<img src="https://img.shields.io/badge/AI%20Domains%20Shipped-5%2B-purple?style=flat-square" alt="Domains"/>
+<img src="https://img.shields.io/badge/GitHub%20Since-2021-gray?style=flat-square&logo=github" alt="Since"/>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CURRENTLY WORKING ON  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  WHAT I'M UP TO  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🔭 What I'm Up To
 
 - 🔭 &nbsp;**Building** → Web Audit Agent v2 — AI-native DAST Platform (open-source Burp Suite / ZAP alternative)
 - 🌱 &nbsp;**Exploring** → MCP (Model Context Protocol) | Advanced RAG Pipelines | LLM Fine-tuning
 - 🤖 &nbsp;**Deploying** → Open-weight LLMs on NVIDIA H100/H200 | VRAM optimization | Quantization
 - 🎯 &nbsp;**Seeking** → Senior AI Engineer roles at top Product MNCs (GenAI / Agentic AI focus)
-- 📝 &nbsp;**Creating** → Production AI content for 25K+ followers — making real-world AI accessible
+- 📝 &nbsp;**Creating** → Production AI content for 30K+ followers — making real-world AI accessible
 - 💬 &nbsp;**Ask me about** → GenAI, RAG, AI Agents, LLMs, MCP, Agentic AI, Python, ML Systems
-- 📫 &nbsp;**Reach me** → [pikumaity500@gmail.com](mailto:pikumaity500@gmail.com)
 - ⚡ &nbsp;**Fun fact** → *My AI models handle edge cases better than my jokes handle silence!*
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CORE EXPERTISE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  CORE EXPERTISE  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🎯 Core Expertise
 
 <div align="center">
@@ -105,9 +94,9 @@ class PikuMaity:
 
 </div>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  WHAT I CAN DELIVER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  WHAT I CAN DELIVER  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🚀 What I Can Deliver
 
 > *Production-grade AI systems shipped across Healthcare, Transport, Enterprise & Public Sector.*
@@ -124,9 +113,9 @@ class PikuMaity:
 
 </div>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  AVAILABLE FOR  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  AVAILABLE FOR  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🤝 Available For
 
 <div align="center">
@@ -136,14 +125,15 @@ class PikuMaity:
 | 🔬 **AI Consulting** | Architecture design for GenAI, RAG & Agentic AI systems |
 | 🛠️ **Freelance AI Projects** | End-to-end production AI system development |
 | 🎤 **Speaking & Advisory** | AI/ML talks, webinars, workshops, panel discussions |
-| 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (25K+ audience) |
+| 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (30K+ audience) |
 | 🏢 **Full-time Opportunities** | Senior AI Engineer roles at Product MNCs |
+| 📧 **Contact** | [pikumaity500@gmail.com](mailto:pikumaity500@gmail.com) |
 
 </div>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TECH STACK (ICON-BASED)  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  TECH STACK  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 💻 Tech Stack
 
 <h4 align="left">🤖 LLM, AI & Machine Learning</h4>
@@ -184,9 +174,9 @@ class PikuMaity:
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -195,36 +185,36 @@ class PikuMaity:
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picoders1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=picoders1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=picoders1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=picoders1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONNECT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  CONNECT  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -237,16 +227,16 @@ class PikuMaity:
 <a href="https://youtube.com/@pikumaity1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
 </p>
 
-***
+---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SNAKE ANIMATION  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  SNAKE ANIMATION  ▓▓▓▓▓▓▓▓▓▓ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FOOTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  FOOTER  ▓▓▓▓▓▓▓▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=100&section=footer" width="100%"/>
 
 <p align="center">
