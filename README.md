@@ -22,6 +22,12 @@
 </p>
 
 <p align="center">
+<a href="https://kaggle.com/pikumaity" target="_blank"><img src="https://img.shields.io/badge/Kaggle-pikumaity-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
+<a href="https://huggingface.co/pikumaity" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-pikumaity-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>&nbsp;
+<a href="mailto:pikumaity500@gmail.com"><img src="https://img.shields.io/badge/Email-pikumaity500@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=picoders1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
 <a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/twitter/follow/pikumaity5?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a>
 </p>
@@ -217,21 +223,6 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=picoders1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=-UNKNOWN,-C" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓  CONNECT  ▓▓▓▓▓▓▓▓▓▓ -->
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>&nbsp;
-<a href="https://www.instagram.com/piku.chiku.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>&nbsp;
-<a href="https://twitter.com/pikumaity5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>&nbsp;
-<a href="https://kaggle.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/></a>&nbsp;
-<a href="https://www.hackerrank.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>&nbsp;
-<a href="https://leetcode.com/pikumaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>&nbsp;
-<a href="https://youtube.com/@pikumaity1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
 </p>
 
 ---
