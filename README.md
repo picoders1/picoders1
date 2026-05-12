@@ -104,11 +104,11 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 | 🔧 System | 🏭 Domain | 🛠️ Stack | 📈 Impact |
 |:---|:---:|:---|:---|
-| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source Burp Suite/ZAP alternative; 16 scanners, 8 AI personas, 47 core modules |
-| 📄 **DPR CoPilot** — Document Intelligence | Enterprise | RAG, LLMs, Vector DB, Document Parsing | End-to-end document Q&A for enterprise workflows |
-| 🚌 **KSRTC AI Systems** — Operational Analytics | Public Sector | ML, NLP, PySpark, BI Dashboards | Data-driven ops for Karnataka government transport |
-| 🏥 **Health Insurance ML App** | Healthcare | KNN, Random Forest, Logistic Regression | **60%+ improvement** in policy renewal accuracy |
-| 🖥️ **Enterprise Desktop Onboarding App** | Enterprise | Python, PyQT5, PySide2, MySQL | **40% productivity boost** for Data Migration teams |
+| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source Burp Suite/ZAP alternative — 16 scanners, 8 AI personas, 47 core modules |
+| 📄 **DPR CoPilot** — Document Intelligence | Enterprise | RAG, LLMs, Vector DB, Document Parsing | Reduced document lookup time significantly — instant Q&A over large enterprise doc repositories |
+| 🚌 **KSRTC AI Systems** — Operational Analytics | Public Sector | ML, NLP, PySpark, BI Dashboards | Automated reporting and analytics for Karnataka's state transport ops — replaced manual processes |
+| 🏥 **Health Insurance ML App** | Healthcare | KNN, Random Forest, Logistic Regression | **60%+ improvement** in policy renewal prediction accuracy |
+| 🖥️ **Enterprise Desktop Onboarding App** | Enterprise | Python, PyQT5, PySide2, MySQL | **40% productivity boost** for Data Migration teams across enterprise onboarding workflows |
 
 </div>
 
