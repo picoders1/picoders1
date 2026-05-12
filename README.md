@@ -231,7 +231,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/picoders1/picoders1/output/github-snake-dark.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/picoders1/picoders1/output/ocean.gif" width="100%"/>
 </picture>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  FOOTER — MATCHING GRADIENT  ▓▓▓▓▓▓▓▓▓▓ -->
