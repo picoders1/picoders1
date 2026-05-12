@@ -122,13 +122,14 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 | 💼 Service | 📋 Description |
 |:---:|:---|
 | 🔬 **AI Consulting** | Architecture design for GenAI, RAG & Agentic AI systems |
-| 🛠️ **Freelance AI Projects** | End-to-end production AI system development |
+| 🛠️ **Freelance AI Projects** | Production AI system development — agents, RAG pipelines, LLM deployment |
 | 🎤 **Speaking & Advisory** | AI/ML talks, webinars, workshops, panel discussions |
-| 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (30K+ community) |
-| 🏢 **Full-time Opportunities** | Senior AI Engineer roles at Product MNCs |
-| 📧 **Contact** | [pikumaity500@gmail.com](mailto:pikumaity500@gmail.com) |
+| 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (30K+ AI community) |
+| 🏢 **Full-time Opportunities** | Senior AI Engineer / AI Architect roles focused on GenAI & Agentic AI |
 
 </div>
+
+<p align="center">📧 &nbsp;<a href="mailto:pikumaity500@gmail.com">pikumaity500@gmail.com</a></p>
 
 ---
 
