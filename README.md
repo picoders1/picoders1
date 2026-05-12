@@ -198,7 +198,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=picoders1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=picoders1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
