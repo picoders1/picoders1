@@ -71,8 +71,8 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 - 🔭 &nbsp;**Building** → Web Audit Agent v2 — AI-native DAST Platform (open-source Burp Suite / ZAP alternative)
 - 🌱 &nbsp;**Exploring** → MCP (Model Context Protocol) | Advanced RAG Pipelines | LLM Fine-tuning
 - 🤖 &nbsp;**Deploying** → Open-weight LLMs on NVIDIA H100/H200 | VRAM optimization | Quantization
-- 📝 &nbsp;**Creating** → Tutorials and deep-dives on GenAI, AI Agents, RAG, and LLM deployment
-- 💬 &nbsp;**Ask me about** → GenAI, RAG, AI Agents, LLMs, MCP, Agentic AI, Python, ML Systems
+- 📝 &nbsp;**Creating** → Production AI breakdowns on GenAI, AI Agents, RAG, and LLM deployment — for engineers who ship
+- 🧩 &nbsp;**I solve** → RAG that doesn't hallucinate · Agents that don't loop · LLMs that run on your hardware
 - ⚡ &nbsp;**Fun fact** → *My AI models handle edge cases better than my jokes handle silence!*
 
 ---
