@@ -10,7 +10,7 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  TYPING ANIMATION  ▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=I+build+AI+systems+that+ship+to+production.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP+%7C+Agentic+AI;Multi-Agent+Orchestration+%7C+Vector+DBs+%7C+LLM+Serving;Healthcare+%7C+Transport+%7C+Enterprise+%7C+Public+Sector;30K%2B+Community+%7C+AI+Content+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=I+build+AI+systems+that+ship+to+production.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP+%7C+Agentic+AI;Healthcare+%7C+Transport+%7C+Enterprise+%7C+Public+Sector;Engineer+in+the+Field.+Creator+in+the+Feed." alt="Typing SVG" />
 </p>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓ -->
