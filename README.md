@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/pikumaity" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Piku_Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://youtube.com/@pikumaity1" target="_blank"><img src="https://img.shields.io/badge/YouTube-@pikumaity1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;
-<a href="https://twitter.com/pikumaity5" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PikuMaity5-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
+<a href="https://github.com/picoders1" target="_blank"><img src="https://img.shields.io/badge/GitHub-picoders1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://pikuai.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pikuai.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </p>
 
