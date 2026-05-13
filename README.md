@@ -156,32 +156,32 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 <h4 align="left">🦜 GenAI, Agents & RAG Frameworks</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangChain"/>&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangGraph"/>&nbsp;
-<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white" height="32" alt="LlamaIndex"/>&nbsp;
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" height="32" alt="CrewAI"/>&nbsp;
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32" alt="AutoGen"/>&nbsp;
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" height="32" alt="Ollama"/>&nbsp;
-<img src="https://img.shields.io/badge/Open_WebUI-343541?style=for-the-badge&logoColor=white" height="32" alt="Open WebUI"/>&nbsp;
-<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white" height="32" alt="MCP"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="LangChain"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="LangGraph"/>&nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white" height="30" alt="LlamaIndex"/>&nbsp;
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" height="30" alt="CrewAI"/>&nbsp;
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white" height="30" alt="AutoGen"/>&nbsp;
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="30" alt="Ollama"/>&nbsp;
+<img src="https://img.shields.io/badge/Open_WebUI-343541?style=for-the-badge&logoColor=white" height="30" alt="Open WebUI"/>&nbsp;
+<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white" height="30" alt="MCP"/>
 </p>
 
 <h4 align="left">⚡ Inference & Model Serving</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge&logoColor=white" height="32" alt="vLLM"/>&nbsp;
-<img src="https://img.shields.io/badge/SGLang-6366F1?style=for-the-badge&logoColor=white" height="32" alt="SGLang"/>&nbsp;
-<img src="https://img.shields.io/badge/TGI-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" height="32" alt="TGI"/>&nbsp;
-<img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32" alt="CUDA"/>&nbsp;
-<img src="https://img.shields.io/badge/GGUF-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="GGUF"/>&nbsp;
-<img src="https://img.shields.io/badge/AWQ-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="AWQ"/>&nbsp;
-<img src="https://img.shields.io/badge/GPTQ-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="GPTQ"/>
+<img src="https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge&logoColor=white" height="30" alt="vLLM"/>&nbsp;
+<img src="https://img.shields.io/badge/SGLang-6366F1?style=for-the-badge&logoColor=white" height="30" alt="SGLang"/>&nbsp;
+<img src="https://img.shields.io/badge/TGI-FF6B35?style=for-the-badge&logoColor=white" height="30" alt="TGI"/>&nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="30" alt="CUDA"/>&nbsp;
+<img src="https://img.shields.io/badge/GGUF-00B4D8?style=for-the-badge&logoColor=white" height="30" alt="GGUF"/>&nbsp;
+<img src="https://img.shields.io/badge/AWQ-00B4D8?style=for-the-badge&logoColor=white" height="30" alt="AWQ"/>&nbsp;
+<img src="https://img.shields.io/badge/GPTQ-00B4D8?style=for-the-badge&logoColor=white" height="30" alt="GPTQ"/>
 </p>
 
 <h4 align="left">🗄️ Vector Databases & Storage</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" height="32" alt="ChromaDB"/>&nbsp;
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" height="32" alt="Qdrant"/>&nbsp;
-<img src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="Weaviate"/>&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" height="30" alt="ChromaDB"/>&nbsp;
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" height="30" alt="Qdrant"/>&nbsp;
+<img src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logoColor=white" height="30" alt="Weaviate"/>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
@@ -202,7 +202,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>&nbsp;
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/></a>&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>&nbsp;
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;
