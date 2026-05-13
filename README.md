@@ -154,13 +154,37 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">🔗 Frameworks & APIs</h4>
+<h4 align="left">🦜 GenAI, Agents & RAG Frameworks</h4>
 <p align="left">
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>&nbsp;
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>&nbsp;
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/Open_WebUI-343541?style=flat-square&logoColor=white" height="32"/>
+</p>
+
+<h4 align="left">⚡ Inference & Model Serving</h4>
+<p align="left">
+<img src="https://img.shields.io/badge/vLLM-FF4B4B?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/SGLang-6366F1?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/TGI-FF6B35?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/GGUF-00B4D8?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/AWQ-00B4D8?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/GPTQ-00B4D8?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="32"/>
+</p>
+
+<h4 align="left">🗄️ Vector Databases & Storage</h4>
+<p align="left">
+<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" height="32"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Weaviate-00B4D8?style=flat-square&logoColor=white" height="32"/>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">📊 Data Science & Analytics</h4>
@@ -168,23 +192,22 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/></a>&nbsp;
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;
 <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>&nbsp;
+<a href="https://plotly.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">🗄️ Databases</h4>
+<h4 align="left">☁️ Cloud, DevOps & Languages</h4>
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-</p>
-
-<h4 align="left">☁️ Cloud & Infrastructure</h4>
-<p align="left">
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>&nbsp;
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/></a>&nbsp;
+<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>&nbsp;
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;
-<a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
 ---
