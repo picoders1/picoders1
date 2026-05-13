@@ -43,7 +43,7 @@
 
 **I'm Piku Maity — an AI Engineer based in Bangalore, India.**
 
-I build production-grade AI systems that solve real business problems — not demos, not notebooks, not toy projects. Over the past 2.5+ years, I've shipped AI solutions at **CSG Karnataka** and **Philips** across **Healthcare, Transport, Enterprise, and Public Sector** domains.
+I build production-grade AI systems that solve real business problems — not demos, not notebooks, not toy projects. Over the past 3+ years, I've shipped AI solutions at **CSG Karnataka** and **Philips** across **Healthcare, Transport, Enterprise, and Public Sector** domains.
 
 My core expertise sits at the intersection of **GenAI, RAG pipelines, AI Agents, LLMs, and MCP** — the full stack of what it takes to move an AI idea from whiteboard to production.
 
