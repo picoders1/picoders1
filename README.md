@@ -156,32 +156,32 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 <h4 align="left">🦜 GenAI, Agents & RAG Frameworks</h4>
 <p align="left">
-<a href="https://langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="40" height="40" style="filter:invert(1)"/></a>&nbsp;
-<a href="https://langchain.com/langgraph" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangGraph" width="40" height="40" style="filter:invert(1)"/></a>&nbsp;
-<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://www.llamaindex.ai/llamaindex.svg" alt="LlamaIndex" width="40" height="40"/></a>&nbsp;
-<a href="https://www.crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="CrewAI" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/microsoft/autogen" target="_blank"><img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" alt="AutoGen" width="40" height="40"/></a>&nbsp;
-<a href="https://ollama.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="Ollama" width="40" height="40"/></a>&nbsp;
-<a href="https://openwebui.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/158137808?s=200&v=4" alt="Open WebUI" width="40" height="40"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" height="30" alt="MCP"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangChain"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangGraph"/>&nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white" height="32" alt="LlamaIndex"/>&nbsp;
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" height="32" alt="CrewAI"/>&nbsp;
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32" alt="AutoGen"/>&nbsp;
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" height="32" alt="Ollama"/>&nbsp;
+<img src="https://img.shields.io/badge/Open_WebUI-343541?style=for-the-badge&logoColor=white" height="32" alt="Open WebUI"/>&nbsp;
+<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white" height="32" alt="MCP"/>
 </p>
 
 <h4 align="left">⚡ Inference & Model Serving</h4>
 <p align="left">
-<a href="https://github.com/vllm-project/vllm" target="_blank"><img src="https://avatars.githubusercontent.com/u/128500434?s=200&v=4" alt="vLLM" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/sgl-project/sglang" target="_blank"><img src="https://avatars.githubusercontent.com/u/164115977?s=200&v=4" alt="SGLang" width="40" height="40"/></a>&nbsp;
-<a href="https://huggingface.co/docs/text-generation-inference" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="TGI" width="40" height="40"/></a>&nbsp;
-<a href="https://nvidia.com/cuda" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" alt="NVIDIA CUDA" width="60" height="40"/></a>&nbsp;
-<img src="https://img.shields.io/badge/GGUF-00B4D8?style=flat-square&logoColor=white" height="30" alt="GGUF"/>&nbsp;
-<img src="https://img.shields.io/badge/AWQ-00B4D8?style=flat-square&logoColor=white" height="30" alt="AWQ"/>&nbsp;
-<img src="https://img.shields.io/badge/GPTQ-00B4D8?style=flat-square&logoColor=white" height="30" alt="GPTQ"/>
+<img src="https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge&logoColor=white" height="32" alt="vLLM"/>&nbsp;
+<img src="https://img.shields.io/badge/SGLang-6366F1?style=for-the-badge&logoColor=white" height="32" alt="SGLang"/>&nbsp;
+<img src="https://img.shields.io/badge/TGI-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" height="32" alt="TGI"/>&nbsp;
+<img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32" alt="CUDA"/>&nbsp;
+<img src="https://img.shields.io/badge/GGUF-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="GGUF"/>&nbsp;
+<img src="https://img.shields.io/badge/AWQ-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="AWQ"/>&nbsp;
+<img src="https://img.shields.io/badge/GPTQ-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="GPTQ"/>
 </p>
 
 <h4 align="left">🗄️ Vector Databases & Storage</h4>
 <p align="left">
-<a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/107780240?s=200&v=4" alt="ChromaDB" width="40" height="40"/></a>&nbsp;
-<a href="https://qdrant.tech/" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" alt="Qdrant" width="40" height="40"/></a>&nbsp;
-<a href="https://weaviate.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="Weaviate" width="40" height="40"/></a>&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" height="32" alt="ChromaDB"/>&nbsp;
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" height="32" alt="Qdrant"/>&nbsp;
+<img src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logoColor=white" height="32" alt="Weaviate"/>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
