@@ -65,7 +65,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <img src="https://img.shields.io/badge/Longest%20Streak-44%20Days-orange?style=flat-square&logo=github" alt="Streak"/>
 <img src="https://img.shields.io/badge/Public%20Repos-44-blue?style=flat-square&logo=github" alt="Repos"/>
 <img src="https://img.shields.io/badge/Stars%20Earned-49%2B-yellow?style=flat-square&logo=github" alt="Stars"/>
-<img src="https://img.shields.io/badge/AI%20Domains%20Shipped-15%2B-8B5CF6?style=flat-square" alt="Domains"/>
+<img src="https://img.shields.io/badge/AI%20Domains%20Shipped-10%2B-8B5CF6?style=flat-square" alt="Domains"/>
 <img src="https://img.shields.io/badge/Building%20Since-2021-555555?style=flat-square&logo=github" alt="Since"/>
 </p>
 
