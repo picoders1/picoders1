@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://kaggle.com/pikumaity" target="_blank"><img src="https://img.shields.io/badge/Kaggle-pikumaity-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
-<a href="https://huggingface.co/pikumaity" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-pikumaity-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>&nbsp;
+<a href="https://huggingface.co/pikumaity1" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-pikumaity-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>&nbsp;
 <a href="mailto:pikumaity500@gmail.com"><img src="https://img.shields.io/badge/Email-pikumaity500@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
