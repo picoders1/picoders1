@@ -6,6 +6,7 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:0077b6,100:00b4d8&height=220&section=header&text=Piku%20Maity&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontFamily=Raleway&desc=AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems%20%7C%20LLM%20%26%20Agentic%20AI%20Builder&descAlignY=60&descAlign=50&descSize=16&descColor=90e0ef" width="100%" />
 
+
 <!-- ▓▓▓▓▓▓▓▓▓▓  TYPING ANIMATION  ▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=I+build+AI+systems+that+ship+to+production.;GenAI+%7C+RAG+%7C+AI+Agents+%7C+LLMs+%7C+MCP+%7C+Agentic+AI;Healthcare+%7C+Transport+%7C+Enterprise+%7C+Public+Sector;Engineer+in+the+Field.+Creator+in+the+Feed." alt="Typing SVG" />
