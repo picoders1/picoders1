@@ -3,8 +3,8 @@
 <!--      picoders1 | Zero Duplication | Final Edition    -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:0077b6,100:00b4d8&height=220&section=header&text=Piku%20Maity&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontFamily=Raleway&desc=AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems%20%7C%20LLM%20and%20Agentic%20AI%20Builder&descAlignY=60&descAlign=50&descSize=16&descColor=90e0ef" width="100%" />
-
+<!-- ▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:0077b6,100:00b4d8&height=220&section=header&text=Piku%20Maity&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontFamily=Raleway&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20Builder%20%C2%B7%20Practical%20AI%20Educator&descAlignY=60&descAlign=50&descSize=16&descColor=90e0ef" width="100%" />
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  TYPING ANIMATION  ▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
