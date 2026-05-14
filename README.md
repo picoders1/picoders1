@@ -101,44 +101,6 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓  WHAT I CAN DELIVER  ▓▓▓▓▓▓▓▓▓▓ -->
-## 🚀 What I Can Deliver
-
-> *Production-grade AI systems shipped across Healthcare, Transport, Enterprise & Public Sector.*
-
-<div align="center">
-
-| 🔧 System | 🏭 Domain | 🛠️ Stack | 📈 Impact |
-|:---|:---:|:---|:---|
-| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source Burp Suite/ZAP alternative — 16 scanners, 8 AI personas, 47 core modules |
-| 📄 **DPR CoPilot** — Document Intelligence | Enterprise | RAG, LLMs, Vector DB, Document Parsing | Reduced document lookup time significantly — instant Q&A over large enterprise doc repositories |
-| 🚌 **KSRTC AI Systems** — Operational Analytics | Public Sector | ML, NLP, PySpark, BI Dashboards | Automated reporting and analytics for Karnataka's state transport ops — replaced manual processes |
-| 🏥 **Health Insurance ML App** | Healthcare | KNN, Random Forest, Logistic Regression | **60%+ improvement** in policy renewal prediction accuracy |
-| 🖥️ **Enterprise Desktop Onboarding App** | Enterprise | Python, PyQT5, PySide2, MySQL | **40% productivity boost** for Data Migration teams across enterprise onboarding workflows |
-
-</div>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓  AVAILABLE FOR  ▓▓▓▓▓▓▓▓▓▓ -->
-## 🤝 Available For
-
-<div align="center">
-
-| 💼 Service | 📋 Description |
-|:---:|:---|
-| 🔬 **AI Consulting** | Architecture design for GenAI, RAG & Agentic AI systems |
-| 🛠️ **Freelance AI Projects** | Production AI system development — agents, RAG pipelines, LLM deployment |
-| 🎤 **Speaking & Advisory** | AI/ML talks, webinars, workshops, panel discussions |
-| 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (30K+ AI community) |
-| 🏢 **Full-time Opportunities** | Senior AI Engineer / AI Architect roles focused on GenAI & Agentic AI |
-
-</div>
-
-<p align="center">📧 &nbsp;<a href="mailto:pikumaity500@gmail.com">pikumaity500@gmail.com</a></p>
-
----
-
 <!-- ▓▓▓▓▓▓▓▓▓▓  TECH STACK  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 💻 Tech Stack
 
@@ -212,6 +174,44 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 </p>
 
 ---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓  WHAT I CAN DELIVER  ▓▓▓▓▓▓▓▓▓▓ -->
+## 🚀 What I Can Deliver
+
+> *Production-grade AI systems shipped across Healthcare, Transport, Enterprise & Public Sector.*
+
+<div align="center">
+
+| 🔧 System | 🏭 Domain | 🛠️ Stack | 📈 Impact |
+|:---|:---:|:---|:---|
+| 🔐 **Web Audit Agent** — AI-Native DAST Platform | Security | Python, Multi-Agent, Playwright, 5 LLM Providers | Open-source Burp Suite/ZAP alternative — 16 scanners, 8 AI personas, 47 core modules |
+| 📄 **DPR CoPilot** — Document Intelligence | Enterprise | RAG, LLMs, Vector DB, Document Parsing | Reduced document lookup time significantly — instant Q&A over large enterprise doc repositories |
+| 🚌 **KSRTC AI Systems** — Operational Analytics | Public Sector | ML, NLP, PySpark, BI Dashboards | Automated reporting and analytics for Karnataka's state transport ops — replaced manual processes |
+| 🏥 **Health Insurance ML App** | Healthcare | KNN, Random Forest, Logistic Regression | **60%+ improvement** in policy renewal prediction accuracy |
+| 🖥️ **Enterprise Desktop Onboarding App** | Enterprise | Python, PyQT5, PySide2, MySQL | **40% productivity boost** for Data Migration teams across enterprise onboarding workflows |
+
+</div>
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓  AVAILABLE FOR  ▓▓▓▓▓▓▓▓▓▓ -->
+## 🤝 Available For
+
+<div align="center">
+
+| 💼 Service | 📋 Description |
+|:---:|:---|
+| 🔬 **AI Consulting** | Architecture design for GenAI, RAG & Agentic AI systems |
+| 🛠️ **Freelance AI Projects** | Production AI system development — agents, RAG pipelines, LLM deployment |
+| 🎤 **Speaking & Advisory** | AI/ML talks, webinars, workshops, panel discussions |
+| 🤝 **Brand Collaborations** | Sponsored content, product reviews, co-creation (30K+ AI community) |
+| 🏢 **Full-time Opportunities** | Senior AI Engineer / AI Architect roles focused on GenAI & Agentic AI |
+
+</div>
+
+<p align="center">📧 &nbsp;<a href="mailto:pikumaity500@gmail.com">pikumaity500@gmail.com</a></p>
+
+--- 
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 📊 GitHub Stats
