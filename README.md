@@ -256,7 +256,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 </picture>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  FOOTER  ▓▓▓▓▓▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,30:0077b6,60:003566,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,30:0077b6,60:1a0533,100:0d1117&height=100&section=footer" width="100%"/>
 
 <p align="center">
 <sub>Found something useful? Drop a ⭐ — it keeps me shipping. Always open to collaborate.</sub>
