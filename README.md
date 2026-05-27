@@ -92,7 +92,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 | MCP Integration | Hybrid RAG Pipelines | LLM Serving & Deployment | NVIDIA H100 / H200 |
 | Tool Calling & Memory | Embedding Models | PostgreSQL + DuckDB | VRAM Optimization · Quantization |
 | Structured Output & Parsing | ChromaDB / Qdrant | CI-ready AI Pipelines | GGUF · AWQ · GPTQ |
-| Prompt Engineering | Context-Aware Retrieval | Python · REST APIs | Docker · Linux · Git |
+| Prompt Engineering | Context-Aware Retrieval | Python · REST APIs | Git · Linux · Docker · Kubernetes |
 
 </div>
 
