@@ -122,6 +122,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white" height="30" alt="AutoGen"/>&nbsp;
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="30" alt="Ollama"/>&nbsp;
 <img src="https://img.shields.io/badge/Open_WebUI-343541?style=for-the-badge&logoColor=white" height="30" alt="Open WebUI"/>&nbsp;
+<img src="https://img.shields.io/badge/LiteLLM-412991?style=for-the-badge&logoColor=white" height="30" alt="LiteLLM"/>&nbsp;  
 <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white" height="30" alt="MCP"/>
 </p>
 
