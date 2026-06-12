@@ -241,7 +241,7 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 ---
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓ -->
-## 🏆 GitHub Trophies 
+<!-- ## 🏆 GitHub Trophies -->
 <!-- ## 🏆 GitHub Trophies -->
 
 <!-- ## 🏆 GitHub Trophies -->
