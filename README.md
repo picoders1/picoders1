@@ -236,7 +236,6 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=picoders1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true&custom_title=Piku%20Maity%20%7C%20GitHub%20Contribution%20Activity" alt="Contribution Activity Graph"/>
 </p> -->
 
-
 <!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🔥 GitHub Streak
 <p align="center">
