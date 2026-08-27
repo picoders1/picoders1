@@ -223,22 +223,37 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 ---
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓ -->
-## 🔥 GitHub Streak
+<!-- ## 🔥 GitHub Streak -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=picoders1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p> -->
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓  CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ## 📈 Contribution Activity -->
+
+<!-- <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=picoders1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true&custom_title=Piku%20Maity%20%7C%20GitHub%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+</p> -->
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓ -->
+## 🔥 GitHub Streak
+<p align="center">
+<img src="https://my-streak-stats.vercel.app/?user=picoders1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 📈 Contribution Activity
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=picoders1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true&custom_title=Piku%20Maity%20%7C%20GitHub%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+<img src="https://my-activity-graph.vercel.app/graph?username=picoders1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true&custom_title=Piku%20Maity%20%7C%20GitHub%20Contribution%20Activity" alt="Contribution Activity Graph"/>
 </p>
 
----
 
 <!-- ▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓ -->
 <!-- ## 🏆 GitHub Trophies -->
