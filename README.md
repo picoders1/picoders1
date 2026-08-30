@@ -222,9 +222,6 @@ Outside of engineering, I run an AI community of **30K+ builders and engineers**
 
 ---
 
-
-
-
 <!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STREAK  ▓▓▓▓▓▓▓▓▓▓ -->
 ## 🔥 GitHub Streak
 <p align="center">
